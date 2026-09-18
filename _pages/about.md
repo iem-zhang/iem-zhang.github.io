@@ -19,7 +19,7 @@ redirect_from:
 
 ## About Me
 
-I am a Professor at Southeast University, [School of Information Science and Engineering](https://radio.seu.edu.cn/2026/0908/c19946a582434/page.htm). My research focuses on computational electromagnetics, electromagnetic compatibility, and artificial intelligence (AI). Recently, I am interested in the **intelligent electromagnetic modeling and computation for antennas, microwave circuits, and IC chips,  data-driven methods for electromagnetic analysis, computational lithography, and AI for electronic design automation (EDA)**.
+I am a Professor at Southeast University, [School of Information Science and Engineering](https://radio.seu.edu.cn/2026/0908/c19946a582434/page.htm). My research focuses on computational electromagnetics, electromagnetic compatibility, and artificial intelligence (AI). Recently, I am interested in the **intelligent electromagnetic modeling and computation,  data-driven methods for electromagnetic analysis, computational lithography, and AI for electronic design automation (EDA)**.
 
 Previously, I was a Research Scientist at Purdue University, working with Prof. [Weng Cho Chew](https://engineering.purdue.edu/wcchew/) (IEEE Life Fellow). Prior to that, I conducted postdoctoral research at The Chinese University of Hong Kong and The University of Hong Kong, working with Prof. [Steven Shichang Gao](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-gao-shichang) (IEEE Fellow) and Prof. [Lijun Jiang](https://ece.mst.edu/people/faculty-directory/lijun-jiang/) (IEEE Fellow). I received my Ph.D. in Electrical and Electronic Engineering from The University of Hong Kong, advised by Prof. Lijun Jiang.
 
