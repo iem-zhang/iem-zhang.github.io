@@ -19,19 +19,20 @@ redirect_from:
 
 ## About Me
 
-I am a Professor at the School of Information Science and Engineering, Southeast University. My research focuses on computational electromagnetics, electromagnetic compatibility, and artificial intelligence. Recently, I am interested in the intelligent electromagnetic computation, physics-informed machine learning,  and artificial intelligence for electronic design automation (AI for EDA).
+I am a Professor at Southeast University, School of Information Science and Engineering. My research focuses on computational electromagnetics, electromagnetic compatibility, and artificial intelligence (AI). Recently, I am interested in the intelligent electromagnetic computation,  computational lithography, and AI for electronic design automation (EDA).
 
-Previously, I was a Research Scientist at Purdue University, where I worked with Prof. Weng Cho Chew (IEEE Life Fellow). Before that, I conducted postdoctoral research at The Chinese University of Hong Kong and The University of Hong Kong, working with Prof. Shichang Steven Gao (IEEE Fellow) and Prof. Lijun Jiang (IEEE Fellow). I received my Ph.D. in Electrical and Electronic Engineering from The University of Hong Kong, advised by Prof. Lijun Jiang.
+Previously, I was a Research Scientist at Purdue University, working with Prof. Weng Cho Chew (IEEE Life Fellow). Prior to that, I conducted postdoctoral research at The Chinese University of Hong Kong and The University of Hong Kong, working with Prof. Steven Shichang Gao (IEEE Fellow) and Prof. Lijun Jiang (IEEE Fellow). I received my Ph.D. in Electrical and Electronic Engineering from The University of Hong Kong, advised by Prof. Lijun Jiang.
 
-I am actively looking for motivated Ph.D. and master’s students, research assistants, and visiting students. Please drop an email to ymzhangj@seu.edu.cn with your complete CV if you are interested. Students with backgrounds in electromagnetics, applied mathematics, machine learning, electronic engineering, or related fields are warmly encouraged to get in touch.
+**I am actively looking for motivated Ph.D. students,  postdoctoral researcher, master’s students, and research assistant. Please drop an email to ymzhangj@seu.edu.cn with your complete CV if you are interested.** Candidates with backgrounds in electromagnetics, applied mathematics, machine learning, electronic engineering, or related fields are preferred. Visiting students/scholars (onsite/remote) are also welcome!
+
+
 
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 Mr. Xinyu Geng joined the group, welcome aboard.
-- *2026.09*: &nbsp;🎉🎉 Dr. Yanming Zhang joined SEU as a Professor.
 - *2026.08*: &nbsp;🎉🎉 Dr. Yanming Zhang won the ACES Young Scientist Award. 
 
-# 📝 Publications 
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
