@@ -21,7 +21,7 @@ redirect_from:
 
 I am a Professor at Southeast University, [School of Information Science and Engineering](https://radio.seu.edu.cn/). My research focuses on computational electromagnetics, electromagnetic compatibility, and artificial intelligence (AI). Recently, I am interested in the **intelligent electromagnetic modeling and computation for antennas, microwave circuits, and IC chips,  computational lithography, and AI for electronic design automation (EDA)**.
 
-Previously, I was a Research Scientist at Purdue University, working with Prof. Weng Cho Chew (IEEE Life Fellow). Prior to that, I conducted postdoctoral research at The Chinese University of Hong Kong and The University of Hong Kong, working with Prof. Steven Shichang Gao (IEEE Fellow) and Prof. Lijun Jiang (IEEE Fellow). I received my Ph.D. in Electrical and Electronic Engineering from The University of Hong Kong, advised by Prof. Lijun Jiang.
+Previously, I was a Research Scientist at Purdue University, working with Prof. [Weng Cho Chew](https://engineering.purdue.edu/wcchew/) (IEEE Life Fellow). Prior to that, I conducted postdoctoral research at The Chinese University of Hong Kong and The University of Hong Kong, working with Prof. [Steven Shichang Gao](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-gao-shichang) (IEEE Fellow) and Prof. [Lijun Jiang](https://ece.mst.edu/people/faculty-directory/lijun-jiang/) (IEEE Fellow). I received my Ph.D. in Electrical and Electronic Engineering from The University of Hong Kong, advised by Prof. Lijun Jiang.
 
 I am actively looking for motivated **Ph.D. students,  postdoctoral researcher, master’s students, and research assistant**. Please drop an email to **ymzhangj@seu.edu.cn** with your complete CV if you are interested. Candidates with backgrounds in electronic engineering, electromagnetics, and machine learning are preferred. Visiting students/scholars (onsite/remote) are also welcome!
 
@@ -33,21 +33,6 @@ I am actively looking for motivated **Ph.D. students,  postdoctoral researcher, 
 - *2026.08*: &nbsp;🎉🎉 Dr. Yanming Zhang won the ACES Young Scientist Award. 
 
 # 📝 Selected Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 - **[J27]** Can Wang, **Yanming Zhang**\*, Wei Liu, Hanzhi Ma, Xiaonan Jiang, Er-ping Li, and Steven Gao, “[Novel Physics-Aware Attention-Based Machine Learning Approach for Mutual Coupling Modeling](https://doi.org/10.1109/TAP.2026.3655148),” ***IEEE Transactions on Antennas and Propagation***, vol. 74, no. 4, pp. 3096-3108, April 2026. **(Monthly Most Popular Paper, \* Corresponding author)**
 
 - **[J26]** Yangyang He, Fanfei Yang, Min Li, **Yanming Zhang**, Changfei Zhou, and Kaixue Ma, “[A Wideband Co-LP Monostatic STAR Antenna Design Using Multiport Theory for ISAC Applications](https://engage.ieee.org/rs/756-GPH-899/images/IEEE-T-AP-February2026.html?version=0),” ***IEEE Transactions on Antennas and Propagation***, vol. 74, no. 2, pp. 1334-1344, Feb. 2026.
@@ -103,16 +88,22 @@ I am actively looking for motivated **Ph.D. students,  postdoctoral researcher, 
 - **[J1]** **Yanming Zhang**, Menglin L. N. Chen, and Lijun Jiang, “[Analysis of Electromagnetic Vortex Beams Using Modified Dynamic Mode Decomposition in Spatial Angular Domain](https://doi.org/10.1364/OE.27.027702),” ***Optics Express***, vol. 27, no. 20, pp. 27702-27711, 2019.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026* Young Scientist Award, Applied Computational Electromagnetics Society (ACES)
+- *2025* Best Paper Nomination, Asia-Pacific International Symposium on Electromagnetic Compatibility (APEMC)
+- *2024* Best Student Paper Nomination, Asia-Pacific International Symposium on Electromagnetic Compatibility (APEMC)
+- *2024* Research Talent Hub, Innovation and Technology Fund (ITF), Hong Kong
+- *2023* Research Talent Hub, Innovation and Technology Fund (ITF), Hong Kong
+- *2020* Merit Prize, IEEE (HK) AP/MTT Postgraduate Conference
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Academic Services
+Guest Editor: Journal of Information and Intelligence 
+
+Journal Reviewer: IEEE Transactions on Antennas and Propagation, IEEE Transactions on Microwave Theory and Techniques, etc.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2026.10*, 2026 URSI-CHINA Young Scientist Forum
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Mentoring
+- *2026.09 - now*, Xinyu Geng, Ph.D. student at SEU, Chief supervisor.
+- *2023.09 - now*, Can Wang, Ph.D. student at CUHK, Mentoring.
+- *2019.09 - 2023.06*, Ping Yuan, Ph.D. student at HKU, Mentoring.
