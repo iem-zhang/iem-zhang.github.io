@@ -17,14 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+## About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a Professor at the School of Information Science and Engineering, Southeast University. My research focuses on computational electromagnetics, electromagnetic compatibility, and artificial intelligence. Recently, I am interested in the intelligent electromagnetic computation, physics-informed machine learning,  and artificial intelligence for electronic design automation (AI for EDA).
+
+Previously, I was a Research Scientist at Purdue University, where I worked with Prof. Weng Cho Chew (IEEE Life Fellow). Before that, I conducted postdoctoral research at The Chinese University of Hong Kong and The University of Hong Kong, working with Prof. Shichang Steven Gao (IEEE Fellow) and Prof. Lijun Jiang (IEEE Fellow). I received my Ph.D. in Electrical and Electronic Engineering from The University of Hong Kong, advised by Prof. Lijun Jiang.
+
+I am actively looking for motivated Ph.D. and master’s students, research assistants, and visiting students. Please drop an email to ymzhangj@seu.edu.cn with your complete CV if you are interested. Students with backgrounds in electromagnetics, applied mathematics, machine learning, electronic engineering, or related fields are warmly encouraged to get in touch.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.09*: &nbsp;🎉🎉 Mr. Xinyu Geng joined the group, welcome aboard.
+- *2026.09*: &nbsp;🎉🎉 Dr. Yanming Zhang joined SEU as a Professor.
+- *2026.08*: &nbsp;🎉🎉 Dr. Yanming Zhang won the ACES Young Scientist Award. 
 
 # 📝 Publications 
 
