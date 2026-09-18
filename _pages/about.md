@@ -100,7 +100,7 @@ Guest Editor: Journal of Information and Intelligence
 Journal Reviewer: IEEE Transactions on Antennas and Propagation, IEEE Transactions on Microwave Theory and Techniques, etc.
 
 # 💬 Invited Talks
-- *2026.10*, 2026 URSI-CHINA Young Scientist Forum
+- *2026.10*, URSI-CHINA Young Scientist Forum
 
 # 💻 Mentoring
 - *2026.09 - now*, Xinyu Geng, Ph.D. student at SEU, Chief supervisor.
