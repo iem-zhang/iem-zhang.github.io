@@ -23,8 +23,7 @@ I am a Professor at Southeast University, [School of Information Science and Eng
 
 Previously, I was a Research Scientist at Purdue University, working with Prof. [Weng Cho Chew](https://engineering.purdue.edu/wcchew/) (IEEE Life Fellow). Prior to that, I conducted postdoctoral research at The Chinese University of Hong Kong and The University of Hong Kong, working with Prof. [Steven Shichang Gao](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-gao-shichang) (IEEE Fellow) and Prof. [Lijun Jiang](https://ece.mst.edu/people/faculty-directory/lijun-jiang/) (IEEE Fellow). I received my Ph.D. in Electrical and Electronic Engineering from The University of Hong Kong, advised by Prof. Lijun Jiang.
 
-I am actively looking for motivated **Ph.D. students,  postdoctoral researcher, master’s students, and research assistant**. Please drop an email to **ymzhangj@seu.edu.cn** with your complete CV if you are interested. Candidates with backgrounds in electronic engineering, electromagnetics, and machine learning are preferred. Visiting students/scholars (onsite/remote) are also welcome!
-
+I am actively looking for motivated **Ph.D. students,  postdoctoral researcher, master’s students, and research assistant**. Candidates with backgrounds in electronic engineering, electromagnetics, or machine learning are particularly welcome. If you are interested, please send your CV to **ymzhangj@seu.edu.cn**.
 
 
 
