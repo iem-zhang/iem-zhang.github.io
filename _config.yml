@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Yanming ZHANG"
+description              : "Imagination encircles the world "
+repository               : "iem-zhang/iem-zhang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanming ZHANG (张言明)"
   avatar           : "images/ymphoto.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "Southeast University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
