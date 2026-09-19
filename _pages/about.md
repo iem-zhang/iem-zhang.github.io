@@ -89,7 +89,7 @@ I am actively looking for motivated **Ph.D. students,  postdoctoral researcher, 
 # 🎖 Honors and Awards
 - *2026* Young Scientist Award, Applied Computational Electromagnetics Society (ACES)
 - *2025* Best Paper Nomination, Asia-Pacific International Symposium on Electromagnetic Compatibility (APEMC)
-- *2024* Best Student Paper Nomination, Asia-Pacific International Symposium on Electromagnetic Compatibility (APEMC)
+- *2024* Best Student Paper Nomination, Asia-Pacific International Symposium on Electromagnetic Compatibility (APEMC), co-author
 - *2024* Research Talent Hub, Innovation and Technology Fund (ITF), Hong Kong
 - *2023* Research Talent Hub, Innovation and Technology Fund (ITF), Hong Kong
 - *2020* Merit Prize, IEEE (HK) AP/MTT Postgraduate Conference
