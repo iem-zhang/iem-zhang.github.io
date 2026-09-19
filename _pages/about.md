@@ -108,7 +108,7 @@ Journal Reviewer: IEEE Transactions on Antennas and Propagation, IEEE Transactio
 - *2019.09 - 2023.06*, Ping Yuan, Ph.D. student at HKU, Mentoring.
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="{{ '/images/iem-lab-logo.jpg' | relative_url }}"
+  <img src="{{ '/images/lablogo.jpg' | relative_url }}"
        alt="Intelligent Electromagnetics Lab (IEM Lab)"
        style="width: 100%; max-width: 900px; height: auto;">
 </div>
