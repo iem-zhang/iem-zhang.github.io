@@ -24,9 +24,8 @@ author:
   name             : "Yanming ZHANG (张言明)"
   avatar           : "images/ymphoto.jpg"
   bio              : "Professor of Circuits and Systems"
-  institution      : "Southeast University"
-  employer         : #"Southeast University"
-  location         : "Nanjing, China"
+  employer         : "Southeast University"
+  location         : #"Nanjing, China"
   uri              : "https://radio.seu.edu.cn/2026/0908/c19946a582434/page.htm"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=nw3WlqMAAAAJ&hl=zh-CN"
