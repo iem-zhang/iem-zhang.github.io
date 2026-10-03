@@ -96,6 +96,8 @@ I am actively looking for motivated **Ph.D. students,  postdoctoral researcher, 
 - *2020* Merit Prize, IEEE (HK) AP/MTT Postgraduate Conference
 
 # 📖 Academic Services
+ Associate Editor: IEEE Antennas and Wireless Propagation Letters 
+ 
 Guest Editor: Journal of Information and Intelligence 
 
 Journal Reviewer: IEEE Transactions on Antennas and Propagation, IEEE Transactions on Microwave Theory and Techniques, etc.
