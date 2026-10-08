@@ -28,7 +28,7 @@ I am actively looking for motivated **Ph.D. students,  postdoctoral researcher, 
 
 
 # 🔥 News
-- *2026.10*: &nbsp;🎉🎉 Dr. Yanming Zhang was appointed as an Associate Editor for IEEE Antennas and Wireless Propagation Letters 
+- *2026.10*: &nbsp;🎉🎉 Dr. Yanming Zhang serves as an Associate Editor for IEEE Antennas and Wireless Propagation Letters. 
 - *2026.09*: &nbsp;🎉🎉 Mr. Xinyu Geng joined the group, welcome aboard.
 - *2026.08*: &nbsp;🎉🎉 Dr. Yanming Zhang won the ACES Young Scientist Award. 
 
