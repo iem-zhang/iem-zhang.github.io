@@ -28,6 +28,7 @@ I am actively looking for motivated **Ph.D. students,  postdoctoral researcher, 
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 Dr. Yanming Zhang won the ISAPE Young Scientist Award. 
 - *2026.10*: &nbsp;🎉🎉 Dr. Yanming Zhang serves as an Associate Editor for IEEE Antennas and Wireless Propagation Letters. 
 - *2026.09*: &nbsp;🎉🎉 Mr. Xinyu Geng joined the group, welcome aboard.
 - *2026.08*: &nbsp;🎉🎉 Dr. Yanming Zhang won the ACES Young Scientist Award. 
@@ -88,6 +89,7 @@ I am actively looking for motivated **Ph.D. students,  postdoctoral researcher, 
 - **[J1]** **Yanming Zhang**, Menglin L. N. Chen, and Lijun Jiang, “[Analysis of Electromagnetic Vortex Beams Using Modified Dynamic Mode Decomposition in Spatial Angular Domain](https://doi.org/10.1364/OE.27.027702),” ***Optics Express***, vol. 27, no. 20, pp. 27702-27711, 2019.
 
 # 🎖 Honors and Awards
+- *2026* Young Scientist Award, International Symposium on Antenna, Propagation and EM Theory (ISAPE)
 - *2026* Young Scientist Award, Applied Computational Electromagnetics Society (ACES)
 - *2025* Best Paper Nomination, Asia-Pacific International Symposium on Electromagnetic Compatibility (APEMC)
 - *2024* Best Student Paper Nomination, Asia-Pacific International Symposium on Electromagnetic Compatibility (APEMC), co-author
